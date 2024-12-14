@@ -33,7 +33,7 @@ Main Page:
 ![image alt](https://github.com/LAXMAN7795/google-search/blob/70c0da996f23ac7001a8b6c403edcc35417ed4fa/Google_page.png)
 
 Search Query Input Page:
-![image alt]()
+![image alt](https://github.com/LAXMAN7795/google-search/blob/441bfca68fe028af4e0971621e12a79783cdac36/Search.png)
 
 Search Results Page:
 ![image alt]()
