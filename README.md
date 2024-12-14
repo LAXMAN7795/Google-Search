@@ -36,4 +36,4 @@ Search Query Input Page:
 ![image alt](https://github.com/LAXMAN7795/google-search/blob/441bfca68fe028af4e0971621e12a79783cdac36/Search.png)
 
 Search Results Page:
-![image alt]()
+![image alt](https://github.com/LAXMAN7795/google-search/blob/cbe3b68c17b312d62111e46cc4e4da7e5413ebb2/Result.png)
