@@ -29,5 +29,11 @@ encodeURIComponent ensures the query is URL-safe.
 Event listeners handle both button clicks and the Enter key.
 Input validation prevents empty search submissions.
 
-ouput page:
+Main Page:
 ![image alt](https://github.com/LAXMAN7795/google-search/blob/70c0da996f23ac7001a8b6c403edcc35417ed4fa/Google_page.png)
+
+Search Query Input Page:
+![image alt]()
+
+Search Results Page:
+![image alt]()
