@@ -1,4 +1,4 @@
-Google Search Clone
+Google Search Clone:
 This project is a simple replica of the Google homepage, built using HTML, CSS, and JavaScript. It provides a search bar where users can input their queries and be redirected to Google Search results. The design and functionality aim to mimic the actual Google search page while offering an educational experience for frontend development.
 
 Features:
